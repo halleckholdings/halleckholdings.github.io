@@ -2898,7 +2898,7 @@ body {
 }
 .cid-qY4kffzsaw {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qY4kffzsaw .mbr-section-subtitle {
@@ -2906,9 +2906,50 @@ body {
   text-align: center;
 }
 .cid-qYJoyLevNJ {
-  padding-top: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qZUUvz70s0 {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qZUUvz70s0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qZUR1PmbBR {
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-qZUR1PmbBR .counter-container {
+  color: #767676;
+}
+.cid-qZUR1PmbBR .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qZUR1PmbBR .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qZUR1PmbBR .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
